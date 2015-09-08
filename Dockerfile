@@ -1,4 +1,4 @@
-FROM sameersbn/ubuntu:14.04.20150825
+FROM armv7/armhf-ubuntu:14.04.3
 MAINTAINER sameer@damagehead.com
 
 ENV MYSQL_USER=mysql \
